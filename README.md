@@ -4,7 +4,9 @@
 - 🔭 I’m currently working on web apps mostly with MERN stack.
 - 🚀 Check out my portfolio at asad.dev
 - 🤝 I'm an Open Source Enthusiast
-- 📫 How to reach me: asadwaleed93@gmail.com
+- 📫 How to reach me:
+  - Email: asadwaleed93@gmail.com
+  - LinkedIn: [linkedin.com/in/asadwaleed](https://www.linkedin.com/in/asadwaleed/)
 
 
 ## 💻 Tech Stack:
