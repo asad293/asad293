@@ -2,7 +2,7 @@
 #### Software engineer
 
 - 🔭 I’m currently working on web apps mostly with MERN stack.
-- 🚀 Check out my portfolio at asad.dev
+- 🚀 Check out my portfolio at [asadwaleed.com](https://www.asadwaleed.com/)
 - 🤝 I'm an Open Source Enthusiast
 - 📫 How to reach me:
   - Email: asadwaleed93@gmail.com
