@@ -1,7 +1,9 @@
 ### Hi,👋 I'm Asad
+#### Software Architect
 #### Software engineer
+#### Full-Stack Developer
 
-- 🔭 I’m currently working on web apps mostly with MERN stack.
+- 🔭 I’m currently working on web and mobile app.
 - 🚀 Check out my portfolio at [asadwaleed.com](https://www.asadwaleed.com/)
 - 🤝 I'm an Open Source Enthusiast
 - 📫 How to reach me:
